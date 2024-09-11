@@ -89,3 +89,9 @@ This is a simple Rust project that uses the Actix-web framework to create a web 
 ## License
 
 This project is licensed under the MIT license.
+
+
+![Screenshot 2024-09-10 at 11 00 44 PM](https://github.com/user-attachments/assets/1b059033-07fe-4b64-9adf-93407225a897)
+![Screenshot 2024-09-10 at 11 01 01 PM](https://github.com/user-attachments/assets/71033e5b-23d7-412e-bcce-4e41969826ac)
+
+
